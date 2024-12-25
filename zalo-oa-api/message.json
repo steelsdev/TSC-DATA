@@ -1,0 +1,52 @@
+{
+  "recipient": {
+    "user_id": "8640925857530759397"
+  },
+  "message": {
+    "attachment": {
+      "payload": {
+        "buttons": [
+          {
+            "payload": {
+              "url": "https://www.facebook.com/CongtyThepTayDo"
+            },
+            "image_icon": "",
+            "title": "Facebook: Công ty TNHH Thép Tây Đô",
+            "type": "oa.open.url"
+          },
+          {
+            "payload": {
+              "url": "https://theptaydo.com"
+            },
+            "image_icon": "",
+            "title": "Website chính thức",
+            "type": "oa.open.url"
+          }
+        ],
+        "elements": [
+          {
+            "attachment_id": "o1hKLzCm-pdA7zDMsp_aAiW5nKNTBEOttWVVKyueyp_34jn3s2YlQOr0nms3TxuXmGxM2yrxlZB14yq3b6Ju9zGOZLU3Rhayb4-LK8nXk3YSIPfMYccvEPD2ZLFJFgyzonE7LOywf3EP5ea9tJwhUPPMrmLz8HWRNf8W_Yi",
+            "type": "banner"
+          },
+          {
+            "type": "header",
+            "align": "left",
+            "content": "🎄✨THÉP TÂY ĐÔ CHÚC MỪNG GIÁNG SINH 2024🎄✨"
+          },
+          {
+            "type": "text",
+            "align": "left",
+            "content": "✨ Khi những cơn gió lạnh thổi qua từng dãy phố, tiếng chuông reo vang hòa trong sự háo hức, đó là khi một mùa Giáng Sinh lại về.\n✨ Nhân dịp mùa Giáng Sinh 2024, Công ty Thép Tây Đô kính chúc Quý Khách hàng, Quý Đối tác và toàn thể nhân viên một mùa Giáng Sinh an lành, ấm áp và ngập tràn hạnh phúc!\n✨ Chúc cho một mùa Giáng sinh diệu kỳ và một năm mới 2025 đầy thành công, thịnh vượng và may mắn sẽ đến với tất cả chúng ta!"
+          },
+          {
+            "type": "text",
+            "align": "center",
+            "content": "🎄 MERRY CHRISTMAS & HAPPY NEW YEAR 2025! 🎄"
+          }
+        ],
+        "template_type": "promotion"
+      },
+      "type": "template"
+    }
+  }
+}
